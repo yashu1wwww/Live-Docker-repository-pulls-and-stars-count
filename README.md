@@ -4,6 +4,8 @@ live pulls count for Docker repositories using js
 
 # Couldn't find it on Google, so I created it
 
+# Docker only displays 10K(example), but this code displays the exact numbers.
+
 ![Alt text](images/docker.png)
 
 A Node.js script to retrieve the pull count for a Docker repository from Docker Hub.
