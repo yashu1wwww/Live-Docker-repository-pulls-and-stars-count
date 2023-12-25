@@ -8,6 +8,8 @@ live pulls count for Docker repositories using js
 
 A Node.js script to retrieve the pull count for a Docker repository from Docker Hub.
 
+# You're welcome to create it in React.js
+
 ## Prerequisites
 
 Make sure you have Node.js and npm installed on your machine.
