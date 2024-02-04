@@ -31,6 +31,10 @@ cd docker-hub-pull-counter
 
 npm install
 
+npm install lodash
+
+npm install request-promise
+
 # Usage
 
 Run the script with the name of the Docker repository as a command line argument:
