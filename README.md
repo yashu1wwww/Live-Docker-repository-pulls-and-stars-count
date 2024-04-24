@@ -15,16 +15,13 @@ https://yashawanthtechprojects.on.drv.tw/dockerpulls%26starcount.html
 [![Docker stars](https://img.shields.io/docker/stars/_/ubuntu?color=blue)](https://hub.docker.com/_/ubuntu)
 
 # 3.mysql
-[![Docker stars](https://img.shields.io/docker/stars/_/mysql?color=blue)]
-(https://hub.docker.com/_/mysql)
+[![Docker stars](https://img.shields.io/docker/stars/_/mysql?color=blue)](https://hub.docker.com/_/mysql)
 
 # 4.redis
-[![Docker stars](https://img.shields.io/docker/stars/_/nginx?color=blue)]
-(https://hub.docker.com/_/redis)
+[![Docker stars](https://img.shields.io/docker/stars/_/redis?color=blue)](https://hub.docker.com/_/redis)
 
 # 5.node
-[![Docker stars](https://img.shields.io/docker/stars/_/nginx?color=blue)]
-(https://hub.docker.com/_/node)
+[![Docker stars](https://img.shields.io/docker/stars/_/node?color=blue)](https://hub.docker.com/_/node)
 
 
 
