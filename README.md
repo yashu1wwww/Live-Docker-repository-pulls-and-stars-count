@@ -1,6 +1,6 @@
-# Live-docker-pulls-and-stars-count
+# Live-Docker-repository-pulls-and-stars-count
 
-Live docker pulls and stars count using html,css & js
+Live docker Repository pulls and stars count using html,css & js
 
 # Search Here:
 
