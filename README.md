@@ -2,6 +2,8 @@
 
 Live docker Repository pulls and stars count using html,css & js
 
+<img alt="YouTube Video Likes" src="https://img.shields.io/youtube/likes/pLGzqNsDk8k">
+
 # Search Here:
 
 https://yashawanthtechprojects.on.drv.tw/dockerpulls%26starcount.html
