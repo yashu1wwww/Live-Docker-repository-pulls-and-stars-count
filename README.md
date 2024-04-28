@@ -1,6 +1,10 @@
 # Live-Docker-repository-pulls-and-stars-count
 
-Live docker Repository pulls and stars count using html,css & js
+Live Docker repository pulls and star count using 
+
+https://shields.io/ 
+
+to display HTML, CSS, and JS.
 
 # Search Here:
 
