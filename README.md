@@ -4,8 +4,6 @@ Live Docker repository pulls and star count using
 
 https://shields.io/ 
 
-to display HTML, CSS, and JS.
-
 # Search Here:
 
 https://dockerstatslive.netlify.app
